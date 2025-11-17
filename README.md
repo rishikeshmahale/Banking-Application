@@ -1,4 +1,18 @@
-Deployment live link : https://banking-application-client.onrender.com
+Live deployment link : https://banking-application-client.onrender.com
+
+below are the ready made customer and banker accounts which you can use directly for login alothough you can create your own too, just for convinience
+
+Customer Credentials 
+
+1)  emaail : customer1@gmail.com, password : customer1
+2)  emaail : customer2@gmail.com, password : customer2
+3)  emaail : customer3@gmail.com, password : customer3
+
+Banker Credentials 
+
+1) email : banker1@gmail.com , password : banker1
+
+
 
 # Banking Application
 
