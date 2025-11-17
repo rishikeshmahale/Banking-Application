@@ -1,6 +1,6 @@
 Live deployment link : https://banking-application-client.onrender.com
 
-below are the ready made customer and banker accounts which you can use directly for login alothough you can create your own too, just for convinience
+below are the ready made customer and banker accounts which you can use directly for login although you can create your own too, just for convinience. 
 
 Customer Credentials 
 
